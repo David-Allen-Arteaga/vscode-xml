@@ -273,7 +273,7 @@
         "@types/xmldom": "^0.1.29",
         "tslint": "^5.9.1",
         "typescript": "^2.6.1",
-        "vscode": "^1.1.16"
+        "vscode": "^1.1.37"
     },
     "dependencies": {
         "xmldom": "^0.1.27",
